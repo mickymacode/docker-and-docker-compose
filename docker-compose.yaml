@@ -1,6 +1,7 @@
 version: '3'
 services:
   # my-app:
+    #当pull了docker hub的image回来，可以用mickyma22/my-repo:1.0,之后调用整docker-compose file
     # image: ${docker-registry}/my-app:1.0
     # ports:
      # - 3000:3000
