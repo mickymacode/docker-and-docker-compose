@@ -31,8 +31,11 @@ Step 5: create user-account db and users collection in mongo-express
 Step 6: Start your nodejs application locally - go to app directory of project
 
 cd app
+
 npm install 
+
 node server.js
+
 
 
 Step 7: Access you nodejs application UI from browser
